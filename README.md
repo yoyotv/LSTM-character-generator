@@ -9,7 +9,7 @@ Success in :
 
 pytorch : 0.4.1 , python 2.7
 
-It runs under cuda, so if you want to run in cpu mode, just remove the "cuda()" part in the code. 
+It runs under cuda, so if you want to run in cpu mode, just remove the "cuda( )" part in the code. 
 
 ### Try
 
