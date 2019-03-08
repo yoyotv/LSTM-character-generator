@@ -23,7 +23,7 @@ If every is fine, it should look like this
 
 Use the concept of many to many.
 
-Feed one character to LSTM every timestep.
+Feed one character to LSTM in every timestep.
 After doing it several times, calcalate the losses across all steps.
 
 Train the net base on the total loss.
