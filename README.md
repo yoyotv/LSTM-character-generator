@@ -1,6 +1,7 @@
 # LSTM-character-generator
 
 Character to character generator
+
 Case: one to many
 
 ## GET started
