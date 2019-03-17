@@ -16,7 +16,9 @@ It runs under cuda, so if you want to run in cpu mode, just remove the "cuda( )"
 
 `python main.py`
   
-If every is fine, it should look like this
+If every is fine, it should look like this.
+
+And if you want to make it more resonable to read like a sentence, just increase the training epoch.
 
 ![result](https://raw.githubusercontent.com/yoyotv/LSTM-character-generator/master/figure/result.JPG)
 ### Scheme 
